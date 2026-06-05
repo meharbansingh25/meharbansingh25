@@ -64,13 +64,3 @@
 ## 📫 Connect With Me
 - GitHub: https://github.com/meharbansingh25  
 - LinkedIn: www.linkedin.com/in/meharban-singh-415830180
-
----
-
-## 📊 GitHub Stats
-## 📊 GitHub Stats (Alternative)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meharbansingh25&layout=compact)
-
----
-
-⭐ *"Learning by building real-world projects."*
