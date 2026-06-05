@@ -33,7 +33,7 @@
 ### 🤖 Medical Insurance Cost Prediction (Machine Learning)
 - Built regression models for insurance charges prediction  
 - Compared Linear Regression performance  
-- Achieved strong predictive accuracy (R² Score ~0.78)  
+- Achieved strong predictive accuracy (R² Score ~0.86)  
 
 ---
 
