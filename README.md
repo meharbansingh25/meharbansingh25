@@ -22,5 +22,5 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: (add link)
+- LinkedIn: www.linkedin.com/in/meharban-singh-415830180
 - GitHub: https://github.com/meharbansingh25
