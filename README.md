@@ -13,11 +13,6 @@
 
 ---
 
-## 🚀 Projects
-- Bank Customer Churn Analysis
-
----
-
 ## 📫 Contact
 GitHub Profile
 
