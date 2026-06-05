@@ -1,38 +1,26 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Data%20Analyst%20Portfolio&fontSize=35)
 
-
 # Hi 👋 I'm Meharban Singh
-
 ## Aspiring Data Analyst
-
-📊 Skills:
-- SQL
-- Excel
-- Power BI
-- Python
 
 ---
 
-## 📫 Contact
-GitHub Profile
-
 ## 🛠 Skills
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-<!--
-**meharbansingh25/meharbansingh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- Medical Insurance Cost Analysis
+- Medical Insurance ML Prediction
+- Bank Customer Churn Dashboard
+- Bank Churn ML Project (Upcoming)
+
+---
+
+## 📫 Contact
+- LinkedIn: (add link)
+- GitHub: https://github.com/meharbansingh25
