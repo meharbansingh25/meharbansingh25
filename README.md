@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Meharban Singh
+
+## Aspiring Data Analyst
+
+📊 Skills:
+- SQL
+- Excel
+- Power BI
+
+---
+
+## 🚀 Projects
+- Bank Customer Churn Analysis
+
+---
+
+## 📫 Contact
+GitHub Profile
 
 <!--
 **meharbansingh25/meharbansingh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
