@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Data%20Analyst%20Portfolio&fontSize=35)
+
 # Hi 👋 I'm Meharban Singh
 
 ## Aspiring Data Analyst
