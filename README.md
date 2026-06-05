@@ -8,7 +8,8 @@
 ## 🚀 About Me
 - Passionate about Data Analytics & Business Intelligence  
 - Skilled in Excel, SQL, Power BI & Python for Data Analysis 
-- Focused on building real-world data projects  
+- Focused on building real-world data projects
+- I enjoy solving business problems using data-driven decision making.
 
 ---
 
