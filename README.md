@@ -68,7 +68,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=meharbansingh25)
+## 📊 GitHub Stats (Alternative)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meharbansingh25&layout=compact)
+
 ---
 
 ⭐ *"Learning by building real-world projects."*
