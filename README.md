@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Data%20Analytics%20Portfolio&fontSize=35&fon)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Data%20Analytics%20Portfolio&fontSize=35)
 
 
 # Hi 👋 I'm Meharban Singh
