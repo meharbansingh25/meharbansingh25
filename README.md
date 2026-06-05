@@ -17,6 +17,9 @@
 ## 📫 Contact
 GitHub Profile
 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 <!--
 **meharbansingh25/meharbansingh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
