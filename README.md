@@ -1,5 +1,11 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Data%20Analyst%20Portfolio&fontSize=35)
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meharbansingh25&show_icons=true&theme=tokyonight)
+
+---
+
 # Hi 👋 I'm Meharban Singh
 ## Aspiring Data Analyst
 
