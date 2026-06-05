@@ -68,7 +68,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=meharbansingh25&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meharbansingh25&show_icons=true&hide_border=true)
 
 ---
 
