@@ -8,6 +8,7 @@
 - SQL
 - Excel
 - Power BI
+- Python
 
 ---
 
