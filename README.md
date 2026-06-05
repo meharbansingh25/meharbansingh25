@@ -63,4 +63,4 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/meharbansingh25  
-- LinkedIn: www.linkedin.com/in/meharban-singh-415830180
+- LinkedIn: https://www.linkedin.com/in/meharban-singh-415830180
