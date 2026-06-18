@@ -46,7 +46,7 @@
 
 ### 📈 Data Visualization
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ---
