@@ -20,6 +20,9 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+
 ---
 
 # 📊 Featured Projects
@@ -38,7 +41,7 @@
 
 ---
 
-## 💳 Bank Customer Churn Dashboard (Excel + SQL + Power BI)
+## 💳 Bank Customer Churn Analysis (Excel + SQL + Power BI) 
 - End-to-end churn analysis of 10,000 customers  
 - Built interactive dashboards & KPIs  
 - Identified key churn factors like age, geography & balance
@@ -54,11 +57,14 @@
 ---
 
 ## 📌 Key Strengths
-- Data Cleaning & Preprocessing  
-- SQL Querying & Analysis  
-- Dashboard Development  
-- Machine Learning Basics  
-- Business Insight Generation  
+- Data Cleaning & Data Preparation
+- Exploratory Data Analysis (EDA)
+- SQL Querying & Data Analysis
+- Dashboard Development & Data Visualization
+- Feature Engineering & Data Preprocessing
+- Machine Learning Model Development
+- Model Evaluation & Interpretation
+- Business Insight Generation 
 
 ---
 
