@@ -1,4 +1,4 @@
-<img width="686" height="172" alt="image" src="https://github.com/user-attachments/assets/7db02e57-a5c9-42c9-a8c2-f675c8366da4" />![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Data%20Analytics%20Portfolio&fontSize=35&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Data%20Analytics%20Portfolio&fontSize=35&fontColor=ffffff)
 
 # 👋 Hi, I'm Meharban Singh  
 ### Aspiring Data Analyst | Turning Data into Business Insights 📊
