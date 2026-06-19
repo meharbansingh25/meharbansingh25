@@ -20,15 +20,6 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
 
-## 📊 Data Analysis & Business Intelligence
-
-<img src="assets/icons/excel.png" width="25"/> Excel &nbsp;&nbsp;&nbsp;
-<img src="assets/icons/powerbi.png" width="25"/> Power BI
-
-<br><br>
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ---
 
 ### 🐍 Programming & Data Science
