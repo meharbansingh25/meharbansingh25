@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Meharban Singh
 
-### Aspiring Data Analyst | 6+ Years of Corporate Experience | Turning Data into Business Insights 📊
+### Aspiring Data Analyst | 6+ Years of Corporate Experience | Turning Data into Business Insights.
 
 ---
 
